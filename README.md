@@ -25,8 +25,7 @@ I enjoy learning modern web technologies and improving my problem-solving skills
 </p>
 
 <h2>GitHub Stats</h2>
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
